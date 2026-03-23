@@ -1,0 +1,61 @@
+## Recepcionista 
+
+**HU-01**
+Como recepcionista, quiero registrar pacientes con sus datos personales, historial clinico y grupo sanguineo, para mantener un registro medico digital organizado.
+
+**HU-02**
+Como recepcionista, quiero registrar alergias de los pacientes para evitar que se les administren medicamentos que puedan causar reacciones adversas.
+
+**HU-03**
+Como repecionista, quiero registrar contradicciones de los pacientes, para prevenir tratamientos que afectar negativamente su salud.
+
+**HU-04**
+Como recepcionista, quiero consultar el historial medico de un paciente, para gestionar mejor su atencion.
+
+**HU-10**
+Como recepcionista, quiero agendar citas medicas validando la disponibilidad del medico, para evitar coflictos de horario.
+
+**HU-11**
+Como recepcionista, quiero confirmar citas medicas, para asegurar la asistencia del paciente.
+
+---
+
+## Medico 
+
+**HU-13**
+Como medico, quiero registrar diagnostico, para mantener actualizado el historial clinico del paciente.
+
+**HU-14**
+Como medico, quiero registrar recetas medicas, para proporcionar el tratamiento adecuado al paciente.
+
+**HU-15**
+Como medico, quiero marcar una cita como "en atencion", para indicar que el paciente esta siendo atendido.
+
+**HU-16**
+Como medico, quiero marcar una cita como "completada para registrar la finalizacion de la atencion medica.
+
+---
+
+## Administrador 
+
+**HU-06**
+Como administrador, quiero contrata empleados (medicos, cirujanos y enfermeros), para garantizar la atencion hospitalaria.
+
+**HU-07**
+Como administrador, quiero asignar especialidades medicas a los medicos, para establecer tarifas de consulta adecuadas.
+
+**HU-08**
+Como administrador, quiero gestionar los turnos de trabajo, para asegurar cobertura en todos los horarios.
+
+**HU-09**
+Como administrador, quiero salarios base, para calcular automaticamente el salario final con bonificacion.
+
+---
+
+## Paciente 
+
+**HU-05**
+Como paciente, quiero consultar mi historial medico, para revisar mis citas anteriores.
+
+**HU-12**
+Como paciente, quiero cancelar citas medicas, para liberar el horario en caso de no poder asistir.
